@@ -3,25 +3,27 @@ h1{
 	color:White;
 	background-color: Darkcyan;
 	height:70px;
-	width:500px;
+	width:700px;
 	border:2px;
 	border-radius:10px;
 	display:inline-block;
 	text-align:center;
-	margin-left:400px;
+	margin-left:300px;
 }
 
 #contentB{
     background-color: Gainsboro;
     height: 100px;
-	width: 500px;
-	margin-left:400px;
+	width: 700px;
+	margin-left:300px;
+	font-family: Verdana;
 }
 #results{
     background-color: Gainsboro;
     height: 600px;
-	width: 500px;
-	margin-left:400px;
+	width: 700px;
+	margin-left:300px;
 	font-size:15px;
+	font-family: Verdana;
 }
 
